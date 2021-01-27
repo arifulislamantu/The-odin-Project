@@ -1,0 +1,47 @@
+.logo{
+    margin-left: 0px;
+   height: 40px;
+   width: 40px;
+   color:rgb(204, 149,67);
+}
+.navbar-brand{
+    color:rgb(204, 149,67)!important;
+    font-family: 'Hanalei Fill', cursive;
+}
+
+#navbarSupportedContent{
+    text-align: center;
+   
+}
+.dropdown-item{
+    color:rgb(204, 149,67);
+}
+h1{
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 30px;
+    color: rgb(204, 149,67);
+}
+p{
+    margin-top: 30px;
+    font-size: 22px;
+    text-align: center;
+}
+#btn-group{
+    margin-top: 5%;
+    padding:20px 60px ;
+   margin-left: 35%;
+   text-align: center;
+    color:white;
+  background-color: #86CACD;
+  border: 1px solid black;
+  border-radius: 14px;
+}
+#dui{
+    text-align: center;
+}
+#dui p{
+    margin: 5% 20%;
+}
+ 
+}
